@@ -1,0 +1,25 @@
+# Kickstarting with Excel
+
+## Overview of Project: Campaign Tracking Analysis Dashboard
+
+### Purpose: To have a flash statistics visual report (dashboard) ready in order to track status of the campaign with fact and figures to meet goals and deadlines.  
+
+## Analysis and Challenges: Provided raw data was not in order, various data types with no standard formats. We had to covert unix dates to US date, target and pledged were not converted in a single currency unit nor currency conversion rates provided in order to do forecast/budgeting in a single currency unit. 
+
+### Analysis of Outcomes Based on Launch Date: Most successful month was May and Dec was the most un-successful. Jan was the month of cancellation.
+
+### Analysis of Outcomes Based on Goals: Higher the goal seems having most un-successful campaign, sponsors tend to help bit by bit and do not fund costly projects to avoid failure.
+
+### Challenges and Difficulties Encountered
+
+## Results: Overall campaign was 50% successful, get more sponsors with small pledges to achieve goals and so big campaign could be broken into multiple goals per deadlines. 
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset? 
+Real time currency conversion rate not available, it’s hard to perform forecasting/budgeting analysis without single currency unit.
+
+- What are some other possible tables and/or graphs that we could create?
+We can also provide graphical analysis for parent category for duration of campaign using launch date and end dates of campaign. 
